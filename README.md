@@ -1,4 +1,4 @@
-# socialNetworkAPI
+# Social NetworkAPI
 
 ## Description
 
@@ -24,7 +24,7 @@ use `cd utils node seed`
 
 ## Credits
 
-Code: Anthony Khari Robertson</br>
+Code: Khari Robertson</br>
 Github: [krober45](https://github.com/krober45)
 
 ## Features
